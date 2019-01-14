@@ -1,0 +1,70 @@
+h1 {
+	color: #ffff;
+	text-align: center;
+}
+
+.form {
+	color: #ffff;
+}
+
+.a {
+	border: 1px solid #ffff;
+	align: center;
+	width: 35%;
+	background-color: #000000;
+	border-radius: 15px;
+	position: relative;
+	box-shadow: 0px 6px 10px white;
+}
+
+.w1 {
+	padding: 2%;
+	margin-left: 2%;
+	margin-right: 2%;
+}
+
+.q1 {
+	float: right;
+}
+
+.card {
+	background-color: grey;
+	position: relative;
+	box-shadow: 0px 3px 20px white;
+}
+
+.container {
+	align: center;
+}
+
+.b {
+	background-color: #002db3;
+	width: 300px;
+}
+
+.rounded {
+	border-radius: 0px;
+	background: #000;
+	//
+	without
+	a
+	background
+	or
+	border
+	applied
+	you
+	won't
+	be
+	able
+	to
+	see
+	if
+	its
+	rounded
+}
+
+.mybtn {
+	text-align: center;
+	position: absolute;
+	float: right;
+}
