@@ -5,7 +5,7 @@ public class DatabaseConnection {
 	static {
 		try {
 			Class.forName("oracle.jdbc.driver.OracleDriver");
-			con= DriverManager.getConnection("jdbc:oracle:thin:@localhost:1521:XE","system","324581mm");
+			con= DriverManager.getConnection("jdbc:oracle:thin:@localhost:1521:XE","system","system");
 			System.out.println("Connection Established");
 		}
 		catch(Exception e) {
